@@ -8,7 +8,7 @@ const Nav = () => {
         <h2>Smartwatch Shop </h2>
       </Link>
 
-      <Link>
+      <Link to="/cart">
         <div className="nav-bag">
           <svg
             xmlns="http://www.w3.org/2000/svg"
